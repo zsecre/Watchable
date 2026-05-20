@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core palette -->
+    <color name="bg_dark">#071112</color>
+    <color name="bg_card">#1C1C1C</color>
+    <color name="bg_nav">#050B0B</color>
+    <color name="nav_border">#042423</color>
+    <color name="cyan_accent">#00E5FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_text">#888888</color>
+    <color name="overlay_badge">#CC000000</color>
 
+    <!-- Banner / card placeholder tones (dark cinematic palettes) -->
+    <color name="ph_1">#0D2137</color>
+    <color name="ph_2">#1A0D2E</color>
+    <color name="ph_3">#0D2218</color>
+    <color name="ph_4">#2A0E0E</color>
+    <color name="ph_5">#0D1A2A</color>
+    <color name="ph_6">#1F1A0D</color>
+    <color name="ph_7">#1A0D1A</color>
+</resources>
